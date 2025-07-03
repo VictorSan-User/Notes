@@ -1,5 +1,5 @@
 ### Sistema de Notas
-##Este sistema foi desenvolvido para compreender melhor noções de CRUD utilizando PHP + Laravel ^12
+## Este sistema foi desenvolvido para compreender melhor noções de CRUD utilizando PHP + Laravel ^12
 
 ## Requisitos
 PHP 7.4 ou superior
